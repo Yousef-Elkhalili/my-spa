@@ -8,6 +8,7 @@ import "./App.css";
 const Home: React.FC = () => {
   const navigate = useNavigate();
 
+  
   return (
     <div className="Home-page">
       <h1>Welcome to our Shop!</h1>
